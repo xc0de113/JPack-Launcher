@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updateDescriptor baseUrl="http://www.mediafire.com/folder/c69eg2k9zu88y/JPack_Launcher/">
-  <entry targetMediaFileId="60" updatableVersionMin="" updatableVersionMax="" fileName="JPack_Launcher_x64.msi" newVersion="53.6.1.6" newMediaFileId="60" fileSize="23547392" md5Sum="cd1101b8da161109a1c2cef5cd2cf871" sha256Sum="9e445454a0d85fb459f2a044475b99f7978a9cd4e70b4c6135d3bc630bf62244" bundledJre="windows-amd64-1.8.0_252.tar.gz" archive="false" singleBundle="false">
+  <entry targetMediaFileId="60" updatableVersionMin="" updatableVersionMax="" fileName="JPack_Launcher_x64.msi" newVersion="97.6.2.6" newMediaFileId="60" fileSize="24074752" md5Sum="2e6ba088caa293cb3ae21fae555b335d" sha256Sum="51eec3b733aa9caa765c6cfadbb33ff6bcbc56f04809d2eadc182c2bf29a3b29" bundledJre="windows-amd64-1.8.0_252.tar.gz" archive="false" singleBundle="false">
     <comment language="en" />
     <comment language="ar" />
     <comment language="zh_CN" />
@@ -28,7 +28,7 @@
     <comment language="sv" />
     <comment language="tr" />
   </entry>
-  <entry targetMediaFileId="61" updatableVersionMin="" updatableVersionMax="" fileName="JPack_Launcher_x86.msi" newVersion="53.6.1.6" newMediaFileId="61" fileSize="24079872" md5Sum="432afc8c1653f31128a29396a7c70570" sha256Sum="0f9b18a31c60d68ab58b3a608f659d6ba109e42fb7b7761b76e030ee74cae31b" bundledJre="windows-x86-1.8.0_252.tar.gz" archive="false" singleBundle="false">
+  <entry targetMediaFileId="61" updatableVersionMin="" updatableVersionMax="" fileName="JPack_Launcher_x86.msi" newVersion="97.6.2.6" newMediaFileId="61" fileSize="24579072" md5Sum="3d07c348bbddaba3af1a6f5c93a2208f" sha256Sum="6f705c2d7e498d38e9235cee23920952f028bd7438b87b389a65faa09cf028cf" bundledJre="windows-x86-1.8.0_252.tar.gz" archive="false" singleBundle="false">
     <comment language="en" />
     <comment language="ar" />
     <comment language="zh_CN" />
@@ -56,7 +56,7 @@
     <comment language="sv" />
     <comment language="tr" />
   </entry>
-  <entry targetMediaFileId="62" updatableVersionMin="" updatableVersionMax="" fileName="JPack_Launcher_x64.exe" newVersion="53.6.1.6" newMediaFileId="62" fileSize="23018496" md5Sum="f739a15a63ddf444e6b608dab6037ece" sha256Sum="49be285a9eb6129b8cdc62312c4b40fb7f65f6280ed197b0c12a615f7947957b" bundledJre="windows-amd64-1.8.0_252.tar.gz" archive="false" singleBundle="false">
+  <entry targetMediaFileId="62" updatableVersionMin="" updatableVersionMax="" fileName="JPack_Launcher_x64.exe" newVersion="97.6.2.6" newMediaFileId="62" fileSize="23541248" md5Sum="7e5948cbbd7939017b835e04402f5ca2" sha256Sum="9eae190e8782e0ba6f7e4686bb9a6f77f966b53daf772327875cd80ca41d9adb" bundledJre="windows-amd64-1.8.0_252.tar.gz" archive="false" singleBundle="false">
     <comment language="en" />
     <comment language="ar" />
     <comment language="zh_CN" />
@@ -84,7 +84,7 @@
     <comment language="sv" />
     <comment language="tr" />
   </entry>
-  <entry targetMediaFileId="64" updatableVersionMin="" updatableVersionMax="" fileName="JPack_Launcher_x86.exe" newVersion="53.6.1.6" newMediaFileId="64" fileSize="23546368" md5Sum="81a1a453ac12c789cec66d44de14fb41" sha256Sum="52cdbca31e0e57bf99b83215c4ed8956d3ff28efe6788c19131938b08aa0b5b7" bundledJre="windows-x86-1.8.0_252.tar.gz" archive="false" singleBundle="false">
+  <entry targetMediaFileId="64" updatableVersionMin="" updatableVersionMax="" fileName="JPack_Launcher_x86.exe" newVersion="97.6.2.6" newMediaFileId="64" fileSize="24040960" md5Sum="f6adb161a5f18136cc120ca230e778ba" sha256Sum="6fd04cd929f94e0c8079b49e8d672cdcc647a3f92a5e18402dd47ddc5f7656e3" bundledJre="windows-x86-1.8.0_252.tar.gz" archive="false" singleBundle="false">
     <comment language="en" />
     <comment language="ar" />
     <comment language="zh_CN" />
@@ -112,7 +112,7 @@
     <comment language="sv" />
     <comment language="tr" />
   </entry>
-  <entry targetMediaFileId="66" updatableVersionMin="" updatableVersionMax="" fileName="JPack_Launcher.dmg" newVersion="53.6.1.6" newMediaFileId="66" fileSize="22422353" md5Sum="86479f3845871736617984ddc9c5da20" sha256Sum="37b3a724ed5d076c6147cbe3d4ea202b596f7b956bfd5f0ab2665c17fd56a73f" bundledJre="macos-amd64-1.8.0_252.tar.gz" archive="false" singleBundle="true">
+  <entry targetMediaFileId="209" updatableVersionMin="" updatableVersionMax="" fileName="JPack_Launcher.dmg" newVersion="97.6.2.6" newMediaFileId="209" fileSize="24785031" md5Sum="56bad549b76acc0252787c30d9ed5f72" sha256Sum="70a133617112622ef6c2d57d103d24e0c2cf6bf8149ea73ee22e19c361fd503f" bundledJre="macos-amd64-1.8.0_252.tar.gz" archive="false" singleBundle="false">
     <comment language="en" />
     <comment language="ar" />
     <comment language="zh_CN" />
@@ -140,7 +140,7 @@
     <comment language="sv" />
     <comment language="tr" />
   </entry>
-  <entry targetMediaFileId="68" updatableVersionMin="" updatableVersionMax="" fileName="JPack_Launcher_AMD64.sh" newVersion="53.6.1.6" newMediaFileId="68" fileSize="22763842" md5Sum="2768d54c3e2ea0411da166e2d20c87dd" sha256Sum="a735f20cfd2be70aeefb32afac67481e7537091b2e62b76845d2d6f3b5a5a89c" bundledJre="linux-amd64-1.8.0_252.tar.gz" archive="false" singleBundle="false">
+  <entry targetMediaFileId="68" updatableVersionMin="" updatableVersionMax="" fileName="JPack_Launcher_AMD64.sh" newVersion="97.6.2.6" newMediaFileId="68" fileSize="22939001" md5Sum="6988bb61482b8f2d69268c7146abb098" sha256Sum="6b578c3fe48b91500af1fdc942d80fd4407b7ebccaea5fe55dec100fa09ee71e" bundledJre="linux-amd64-1.8.0_252.tar.gz" archive="false" singleBundle="false">
     <comment language="en" />
     <comment language="ar" />
     <comment language="zh_CN" />
@@ -168,7 +168,7 @@
     <comment language="sv" />
     <comment language="tr" />
   </entry>
-  <entry targetMediaFileId="70" updatableVersionMin="" updatableVersionMax="" fileName="JPack_Launcher_x64_WINPORT.zip" newVersion="53.6.1.6" newMediaFileId="70" fileSize="45033049" md5Sum="fb366bfb48aa354b7082d60cd29d1ee0" sha256Sum="e56514b0ae1df21645e4763558530bc9d8bacda9344236f4fd23d742e63c28ce" bundledJre="windows-amd64-1.8.0_252_unpacked.tar.gz" archive="true" singleBundle="false">
+  <entry targetMediaFileId="70" updatableVersionMin="" updatableVersionMax="" fileName="JPack_Launcher_x64_WINPORT.zip" newVersion="97.6.2.6" newMediaFileId="70" fileSize="45585915" md5Sum="5904481effbee384c2ea355a57a3ce7c" sha256Sum="a7b0dbc11655c913317b55652a19464ac7153e05758391cc89c174acd7cef993" bundledJre="windows-amd64-1.8.0_252_unpacked.tar.gz" archive="true" singleBundle="false">
     <comment language="en" />
     <comment language="ar" />
     <comment language="zh_CN" />
@@ -196,7 +196,7 @@
     <comment language="sv" />
     <comment language="tr" />
   </entry>
-  <entry targetMediaFileId="72" updatableVersionMin="" updatableVersionMax="" fileName="JPack_Launcher_x86_WINPORT.zip" newVersion="53.6.1.6" newMediaFileId="72" fileSize="45787817" md5Sum="434997876772e68c2b62b236f4596b9c" sha256Sum="31b405748f125cfa1c5191af7a330b02d45afd7643b078d88a7350ea1a7cb70a" bundledJre="windows-x86-1.8.0_252_unpacked.tar.gz" archive="true" singleBundle="false">
+  <entry targetMediaFileId="72" updatableVersionMin="" updatableVersionMax="" fileName="JPack_Launcher_x86_WINPORT.zip" newVersion="97.6.2.6" newMediaFileId="72" fileSize="46310926" md5Sum="58d771d18654e6ddbf62b0a353130181" sha256Sum="ed5b5c93a1fe297570e96b007535185a15c2ee2cea27fa3ccbb5b1f1bf06336b" bundledJre="windows-x86-1.8.0_252_unpacked.tar.gz" archive="true" singleBundle="false">
     <comment language="en" />
     <comment language="ar" />
     <comment language="zh_CN" />
@@ -224,7 +224,7 @@
     <comment language="sv" />
     <comment language="tr" />
   </entry>
-  <entry targetMediaFileId="74" updatableVersionMin="" updatableVersionMax="" fileName="JPack_Launcher_AMD64.tar.gz" newVersion="53.6.1.6" newMediaFileId="74" fileSize="42867399" md5Sum="a5a30fa8f68731495b35f9a67bedc55a" sha256Sum="e3950d90e24e5c8ac6e28af39a03ebe202b8aee16c0f825cf421c30e971136c4" bundledJre="linux-amd64-1.8.0_252_unpacked.tar.gz" archive="true" singleBundle="false">
+  <entry targetMediaFileId="74" updatableVersionMin="" updatableVersionMax="" fileName="JPack_Launcher_AMD64.tar.gz" newVersion="97.6.2.6" newMediaFileId="74" fileSize="43094245" md5Sum="2b169d7d43a495aa05044f8eafbce533" sha256Sum="4f2abe5a8ca2a9135f7b97cb6e48b1032abb7dae3609d69838be2e0ed7c56613" bundledJre="linux-amd64-1.8.0_252_unpacked.tar.gz" archive="true" singleBundle="false">
     <comment language="en" />
     <comment language="ar" />
     <comment language="zh_CN" />
@@ -252,7 +252,7 @@
     <comment language="sv" />
     <comment language="tr" />
   </entry>
-  <entry targetMediaFileId="77" updatableVersionMin="" updatableVersionMax="" fileName="JPack_Launcher_AMD64.deb" newVersion="53.6.1.6" newMediaFileId="77" fileSize="37824018" md5Sum="9be16c237735810f92b09bf53a625cde" sha256Sum="74b065613d17027226cd9c9d6654b3da5d9fcfc6df9883fc9df8fb2d453fd65e" bundledJre="linux-amd64-1.8.0_252_unpacked.tar.gz" archive="true" singleBundle="false">
+  <entry targetMediaFileId="77" updatableVersionMin="" updatableVersionMax="" fileName="JPack_Launcher_AMD64.deb" newVersion="97.6.2.6" newMediaFileId="77" fileSize="37942620" md5Sum="cf666e367f1e4c3c547919fbabc30ac2" sha256Sum="5790d9efc29e3afac3e7b3494657cdaec2aac1f47a098d0286d778217b2c8cff" bundledJre="linux-amd64-1.8.0_252_unpacked.tar.gz" archive="true" singleBundle="false">
     <comment language="en" />
     <comment language="ar" />
     <comment language="zh_CN" />
