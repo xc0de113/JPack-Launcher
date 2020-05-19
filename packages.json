@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "SpaceExploration Normal",
+      "name" : "spexp-normal",
+      "version" : "5.0.6",
+      "location" : "spexp-normal.json",
+      "priority" : 0
+    }
+  ]
+}
